@@ -1,0 +1,18 @@
+# Theme metadata
+name = "uchicago"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#800000"
+
+# Menu
+menu_primary = "#800000"
+menu_text = "#FFFFFF"
+menu_text_active = "#CACACA"
+menu_title = "#FFFFFF"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"

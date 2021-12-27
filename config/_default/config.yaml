@@ -3,9 +3,10 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: 'https://example.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: Orecchia Research Group
+theme: orecchia
+baseurl: 'https://orecchia-research-group.github.io/orecchia-githubio/'
+copyright: All Rights Reserved. Orecchia Group.
 
 ############################
 ## LANGUAGE
@@ -24,6 +25,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+
 
 ############################
 ## ADVANCED
@@ -71,4 +73,7 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
+
+
+
 
