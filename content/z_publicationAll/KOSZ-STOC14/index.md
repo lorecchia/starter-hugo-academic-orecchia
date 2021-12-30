@@ -11,7 +11,7 @@ comments: false  # Show comments?
 featured: true
 
 links:
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+#url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 
 # Optional header image (relative to `static/media/` folder).
 header:
