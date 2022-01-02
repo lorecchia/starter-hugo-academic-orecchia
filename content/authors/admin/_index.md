@@ -61,5 +61,5 @@ The unifying thread behind my works is the use of convex optimization and first-
 
 Email: _orecchia at uchicago dot com_ \
 Office: _JCL 315_ \
-Curriculum Vitae: Short Version, Long Version
+Curriculum Vitae: [_Short Version_](cvs/CV-april2021.pdf), _Long Version under construction_
   
