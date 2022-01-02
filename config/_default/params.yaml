@@ -74,6 +74,7 @@ address_format: en-us
 
 # Site features
 
+link_authors: false
 highlight: true
 highlight_languages:
   - r
@@ -112,13 +113,7 @@ avatar:
   shape: circle
 publications:
   date_format: January 2006
-  citation_style: apa
-# Link the title of the publication to the publication
-  links_title: false
-# Link the authors of the publication to the list of publication made by this author
-  links_authors: false
-
-
+  citation_style: mla
 projects:
   post_view: 2
   publication_view: 2
@@ -140,7 +135,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: wowchemy  
   algolia:
     app_id: ''
     api_key: ''

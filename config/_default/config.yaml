@@ -4,9 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Orecchia Research Group
-theme: orecchia
 baseurl: 'https://orecchia.net/'
-copyright: All Rights Reserved. Orecchia Group.
+#copyright: All Rights Reserved. Lorenzo Orecchia.
 
 ############################
 ## LANGUAGE
