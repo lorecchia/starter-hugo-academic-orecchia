@@ -1,4 +1,4 @@
-+++
+---
 # A Recent and Upcoming Events section created with the Pages widget.
 # This section displays recent talks from `content/event/`.
 
@@ -67,4 +67,4 @@ subtitle = ""
  
  # CSS class.
  css_class = "custom-talk"
-+++
+---
