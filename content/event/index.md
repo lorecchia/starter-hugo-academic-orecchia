@@ -5,7 +5,7 @@ summary: Schedule of Group Events
 widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: false  
 active: true  # Activate this widget? true/false
-unsafe = true
+unsafe: true
 
 weight: 10  # Order that this section will appear.
 

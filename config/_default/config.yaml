@@ -72,7 +72,9 @@ security:
     getenv:
       - ^HUGO_
       - ^WC_
-
+backend:
+  name: github
+  repo: Orecchia-Research-Group/starter-hugo-academic
 
 
 
