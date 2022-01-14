@@ -75,6 +75,6 @@ security:
 backend:
   name: github
   repo: Orecchia-Research-Group/starter-hugo-academic
-
+  branch: master
 
 
