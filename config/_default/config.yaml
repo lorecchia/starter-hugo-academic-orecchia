@@ -74,7 +74,7 @@ security:
       - ^WC_
 backend:
   name: github
-  repo: Orecchia-Research-Group/starter-hugo-academic
+  repo: lorecchia/starter-hugo-academic
   branch: master
 
 
