@@ -10,7 +10,7 @@ main:
   - name: People
     url: people
     weight: 20
-  - name: events
+  - name: Events
     url: event
     weight: 25
   - name: Projects

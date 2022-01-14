@@ -1,16 +1,17 @@
 ---
 title: Group Events
 summary: Schedule of Group Events
-
 widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: false  
+headless: true
 active: true  # Activate this widget? true/false
 unsafe: true
 
-weight: 10  # Order that this section will appear.
+weight: 25  # Order that this section will appear.
 
 content:
-  page_type: event
+  filters:
+    folders:
+    - talk
   count: 5
   offset: 0
   order: desc
@@ -23,4 +24,5 @@ content:
 design:
   view: 2
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=66pccobtpgd1ho3lv6fjh2ifmk%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
