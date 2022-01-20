@@ -1,5 +1,5 @@
 ---
-title: UChicago Combinatorics and TCS Seminar
+title: Univ. of Chicago Theory Seminar
 cms_exclude: true
 
 # View.
