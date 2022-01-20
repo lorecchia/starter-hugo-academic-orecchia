@@ -11,7 +11,7 @@ Some beautiful combinatorics arises based on the topology of the underlying grap
 
 # Talk start and end times.
 date: "2022-01-26T12:30:00Z"
-date_end: "2022-01-26T13:00:00Z"
+date_end: "2022-01-26T13:30:00Z"
 all_day: false
 show_date: false
 

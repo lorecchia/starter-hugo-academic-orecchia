@@ -13,11 +13,15 @@ header:
   caption: ""
   image: ""
 
+content:
+  order: desc
+
 show_date: false
 
 weight: 20
 ---
 
+{{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTabs=0&showPrint=0&showCalendars=1&showDate=1&src=NjZwY2NvYnRwZ2QxaG8zbHY2ZmpoMmlmbWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73&color=%23C0CA33" >}}
 
 <!-- ***************** -->
 <!-- EVENT DESCRIPTION -->
@@ -39,7 +43,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 **Time** Every Wednesday at 12:30pm - 1:30pm
 
-**Logistics** Please join the Univ. of Chicago [Theory mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/theory), and check this webpage periodically for updates and announcements of new events.
+**Logistics** Please join the Univ. of Chicago [Theory mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/theory), and check this webpage periodically for updates, announcements of new events, and Zoom links.
 
 
 <!-- ************** -->
