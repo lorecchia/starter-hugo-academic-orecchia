@@ -2,7 +2,6 @@
 title: "An Almost Orthogonal Basis of Inner Product Polynomials"
 event: Theory Lunch
 
-#event_url:
 math: true
 subtitle: "[Chris Jones](http://people.cs.uchicago.edu/~csj/)"
 summary: "[Chris Jones](http://people.cs.uchicago.edu/~csj/)"
@@ -12,6 +11,7 @@ Some beautiful combinatorics arises based on the topology of the underlying grap
 # Talk start and end times.
 date: "2022-01-26T12:30:00Z"
 date_end: "2022-01-26T13:30:00Z"
+location: "JCL 390"
 all_day: false
 show_date: false
 
@@ -21,6 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 authors:
 tags:
 - theory lunch
+- winter 2022
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -39,4 +40,8 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+share: False
+show_related: False
+profile: False
 ---

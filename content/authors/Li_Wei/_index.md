@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Li(Alex) Wei
+title: Li (Alex) Wei
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,7 +10,7 @@ role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago 
+- name: University of Chicago
 #  url: "https://computerscience.uchicago.edu/people/profile/lorenzo-orecchia/"
 
 # Short bio (displayed in user profile at end of posts)

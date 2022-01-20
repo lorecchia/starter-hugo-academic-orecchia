@@ -12,7 +12,7 @@ content:
   # Page type to display. E.g. post, event, or publication.
   page_type: event
   # Choose how much pages you would like to display (0 = all pages)
-  count: 4
+  count: 3
   # Page order. Descending (desc) or ascending (asc) date.
   order: asc
   # Optionally filter posts by a taxonomy term.
