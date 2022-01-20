@@ -2,9 +2,9 @@
 widget: featured
 headless: true  # This file represents a page section.
 active: true
-weight: 70
+weight: 30
 
-title: Featured Publication
+title: Selected Publications
 subtitle: ""
 
 content:

@@ -1,20 +1,25 @@
 ---
-title: Group Events
+title: Upcoming Events
 summary: Schedule of Group Events
 widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true
 active: true  # Activate this widget? true/false
 unsafe: true
 
-weight: 25  # Order that this section will appear.
+weight: 20  # Order that this section will appear.
 
 content:
+  # Page type to display. E.g. post, event, or publication.
+  page_type: event
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 4
+  # Page order. Descending (desc) or ascending (asc) date.
+  order: asc
+  # Optionally filter posts by a taxonomy term.
   filters:
-    folders:
-    - talk
-  count: 5
-  offset: 0
-  order: desc
+    tag: ''
+    category: ''
+    publication_type: ''
 
 # Toggle between the various page layout types.
   #   1 = List
@@ -24,5 +29,3 @@ content:
 design:
   view: 2
 ---
-
-
