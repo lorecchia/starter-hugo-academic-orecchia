@@ -1,4 +1,5 @@
 ---
+
 title: Recent & Upcoming Talks
 cms_exclude: true
 
@@ -12,5 +13,7 @@ view: 2
 header:
   caption: ""
   image: ""
+
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=66pccobtpgd1ho3lv6fjh2ifmk%40group.calendar.google.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+{{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showTabs=0&showPrint=0&showCalendars=1&showDate=1&src=NjZwY2NvYnRwZ2QxaG8zbHY2ZmpoMmlmbWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73&color=%23C0CA33" >}}
