@@ -2,6 +2,8 @@
 title: Univ. of Chicago Theory Lunch
 cms_exclude: true
 
+summary: Theory Lunch is a weekly hour-long event held by the University of Chicago Theoretical Computer Science group. The event is open to all students, researchers, and faculty within the Chicago area research community, and the general hope is to create a light and informal atmosphere where those interested in the theory of computation can connect.
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -16,7 +18,7 @@ header:
 weight: 20
 ---
 
-{{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&showPrint=0&showCalendars=1&showTabs=1&src=NjZwY2NvYnRwZ2QxaG8zbHY2ZmpoMmlmbWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&src=Y19vc2dmMWMxcWVtZHJhczhtdTdsN3BkaGpyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23E67C73&color=%23AD1457&color=%23C0CA33" >}}
+{{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Theoretical%20CS%20at%20UChicago&showPrint=0&showTitle=0&src=Y19vc2dmMWMxcWVtZHJhczhtdTdsN3BkaGpyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457&color=%23C0CA33" >}}
 
 <!-- ***************** -->
 <!-- EVENT DESCRIPTION -->
@@ -67,9 +69,21 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 -  If you are traveling from the University of Illinois Chicago or Northwestern University, please email Antares Chen *antaresc (at) uchicago (dot) edu* for help with parking and related logistics.
 
 
+<!-- ***************** -->
+<!-- NEXT PRESENTATION -->
+<!-- ***************** -->
+### Upcoming Presentation
+
+---
+
+> #### [An Almost Orthogonal Basis of Inner Product Polynomials]({{< ref "event/theory-lunch/01-26-22/index.md" >}})
+> Jan 26, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+>
+> [Chris Jones](http://people.cs.uchicago.edu/~csj/) (University of Chicago)
+
 <!-- ******** -->
 <!-- SCHEDULE -->
 <!-- ******** -->
-### Presentation Schedule
+### Schedule
 
 ---
