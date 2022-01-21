@@ -13,8 +13,6 @@ header:
   caption: ""
   image: ""
 
-show_date: false
-
 weight: 20
 ---
 

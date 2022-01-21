@@ -47,4 +47,4 @@ profile: False
 
 ---
 
-Join via Zoom
+Join via [Zoom](https://uchicago.zoom.us/j/99072449444?pwd=eEphTGEwL3NRNWpueEF3RHZHZ1Jwdz09)
