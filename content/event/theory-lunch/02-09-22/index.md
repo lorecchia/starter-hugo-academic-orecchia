@@ -4,7 +4,7 @@ event: Theory Lunch
 
 #event_url:
 math: true
-subtitle: "[Neng Huang](https://people.cs.uchicago.edu/~nenghuang/)"
+subtitle: "[Neng Huang](https://people.cs.uchicago.edu/~nenghuang/) University of Chicago"
 summary: "[Neng Huang](https://people.cs.uchicago.edu/~nenghuang/)"
 abstract: "TBA."
 
@@ -44,3 +44,7 @@ share: False
 show_related: False
 profile: False
 ---
+
+---
+
+Join via Zoom

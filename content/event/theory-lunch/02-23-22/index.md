@@ -4,13 +4,13 @@ event: Theory Lunch
 
 #event_url:
 math: true
-subtitle: "[Ryan Robinett](https://people.cs.uchicago.edu/~robinett/) University of Chicago"
-summary: "[Ryan Robinett](https://people.cs.uchicago.edu/~robinett/)"
+subtitle: "[Juspreet Singh Sandhu](https://jssandh2.github.io/Juspreet-Sandhu/) Harvard University"
+summary: "[Juspreet Singh Sandhu](https://jssandh2.github.io/Juspreet-Sandhu/)"
 abstract: "TBA."
 
 # Talk start and end times.
-date: "2022-02-02T12:30:00Z"
-date_end: "2022-02-02T13:30:00Z"
+date: "2022-02-09T12:30:00Z"
+date_end: "2022-02-09T13:30:00Z"
 location: "JCL 390"
 all_day: false
 show_date: false
