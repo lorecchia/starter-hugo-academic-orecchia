@@ -16,7 +16,5 @@ advanced:
   css_style:
   css_class:
 ---
----
-University of Chicago
 
-Computer Science Department
+---

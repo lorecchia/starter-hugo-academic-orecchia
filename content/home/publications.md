@@ -1,31 +1,34 @@
 ---
-title: Upcoming Events
-summary: Schedule of Group Events
-widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
-headless: true
-active: true  # Activate this widget? true/false
-unsafe: true
+widget: featured
+headless: true  # This file represents a page section.
+active: true
+weight: 30
 
-weight: 20  # Order that this section will appear.
+title: Selected Publications
+subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: event
+  page_type: z_publicationAll
   # Choose how much pages you would like to display (0 = all pages)
-  count: 3
+  count: 0
   # Page order. Descending (desc) or ascending (asc) date.
-  order: asc
+  order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ''
     category: ''
     publication_type: ''
 
-# Toggle between the various page layout types.
+design:
+  # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-design:
-  view: 2
+  view: 3
+
+advanced:
+  css_style: ''
+  css_class: 'custom-talk'
 ---

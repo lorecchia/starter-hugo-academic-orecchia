@@ -24,7 +24,7 @@ content:
 
 design:
   # Show user's social networking links? (true/false)
-  show_social: false
+  show_social: true
   # Show user's interests? (true/false)
   show_interests: true
   # Show user's role?
@@ -32,5 +32,5 @@ design:
   # Show user's organizations/affiliations?
   show_organizations: true
 
-title: The Team
+title: The Group
 ---
