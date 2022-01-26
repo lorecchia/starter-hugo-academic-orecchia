@@ -27,7 +27,25 @@ weight: 20
 
 This reading group will focus on understanding the technical details related to proving the Parisi variational principle, and its role in modern algorithmic applications of spin glass theory.
 
-##### Topics Outline
+<!-- ***************** -->
+<!-- LOGISTICS SECTION -->
+<!-- ***************** -->
+### Logistics
+
+---
+
+**Location** John Crerar Library (JCL) 354
+
+**Time** Every Tuesday at 10:30am - 12pm
+
+**Logistics** Please check this webpage periodically for updates and material
+
+<!-- ************** -->
+<!-- TOPICS OUTLINE -->
+<!-- ************** -->
+### Topics Outline
+
+---
 
 - Introduction to the replica method, and its use in deriving Parisi's ansatz for the Sherrington-Kirkpatrick model.
 
@@ -43,7 +61,12 @@ This reading group will focus on understanding the technical details related to 
 
 - Present Montanari's algorithm for the Sherrington-Kirkpatrick model and where it takes inspiration from Subag's algorithm.
 
-##### Reading List
+<!-- ************ -->
+<!-- READING LIST -->
+<!-- ************ -->
+### Reading List
+
+---
 
 - [_The Sherrington-Kirkpatrick Model_](https://drive.google.com/file/d/1WXbzgl61jtDz8V3r-m1lsE8-a8JEeA6p/view) (specifically chapters 1, 2, 3 and the bonus chapter)
     - *Dmitry Panchenko*
@@ -54,9 +77,7 @@ This reading group will focus on understanding the technical details related to 
 - [_Optimization of the Sherrington-Kirkpatrick Hamiltonian_](https://arxiv.org/abs/1812.10897)
     - *Andrea Montanari*
 
-##### Further Resources
-
-See [here]({{< ref "event/w22-spin-glass/02-01-22/index.md" >}}) for a full reference list.
+- Additional references can be found [here]({{< ref "event/w22-spin-glass/02-01-22/index.md" >}}).
 
 ### Schedule
 
