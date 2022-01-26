@@ -40,7 +40,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 **Time** Every Wednesday at 12:30pm - 1:30pm
 
-**Logistics** Please join the Univ. of Chicago [Theory mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/theory), and check this webpage periodically for updates, announcements of new events, and Zoom links.
+**Logistics** Weekly announcements for speakers will be sent to the Univ. of Chicago [Theory mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/theory) as well as the [Theory Lunch calendar](https://calendar.google.com/calendar/u/0/embed?src=c_osgf1c1qemdras8mu7l7pdhjrs@group.calendar.google.com&ctz=America/Chicago). Updates, announcements of new events, and Zoom links will also be published to this webpage.
 
 
 <!-- ************** -->
