@@ -76,10 +76,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [An Almost Orthogonal Basis of Inner Product Polynomials]({{< ref "event/theory-lunch/01-26-22/index.md" >}})
-> Jan 26, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### [A Data Structure for High-dimensional Manifold Representation Amenable to Riemannian Optimization]({{< ref "event/theory-lunch/02-02-22/index.md" >}})
+> Feb 2, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Chris Jones](http://people.cs.uchicago.edu/~csj/) (University of Chicago)
+> [Ryan Robinett](https://people.cs.uchicago.edu/~robinett/) (University of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->

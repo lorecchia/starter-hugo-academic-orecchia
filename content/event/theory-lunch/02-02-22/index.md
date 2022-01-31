@@ -1,12 +1,12 @@
 ---
-title: "[TBA]"
+title: "A Data Structure for High-dimensional Manifold Representation Amenable to Riemannian Optimization"
 event: Theory Lunch
 
 #event_url:
 math: true
 subtitle: "[Ryan Robinett](https://people.cs.uchicago.edu/~robinett/) University of Chicago"
 summary: "[Ryan Robinett](https://people.cs.uchicago.edu/~robinett/)"
-abstract: "TBA."
+abstract: "The field of Riemannian Optimization generalizes optimization techniques from Euclidean state-spaces to Riemannian manifolds. While the theory of Riemannian optimization is well developed, it is scarcely implemented due to \"update-and-project\" methods on representations of Riemannian manifolds within a higher-dimensional Euclidean space being costly. Conjugately, while dimensionality reduction techniques allow for insightful, simplifying looks into high-dimensional data, only linear dimensionality reduction techniques succeed in preserving metric information to a degree necessary to perform Riemannian optimization on the reduced space. In this talk, we demonstrate a data structure which allows the user to implement Riemannian optimization algorithms on a pseudo-Riemannian simplicial complex which closely approximates a manifold learned from point cloud data."
 
 # Talk start and end times.
 date: "2022-02-02T12:30:00Z"
@@ -47,4 +47,4 @@ profile: False
 
 ---
 
-Join via (Zoom)[https://uchicago.zoom.us/j/92270537164?pwd=cXRxaWl2QXhWZjFBU29TbVorYy84dz09]
+Join via [Zoom](https://uchicago.zoom.us/j/92270537164?pwd=cXRxaWl2QXhWZjFBU29TbVorYy84dz09)
