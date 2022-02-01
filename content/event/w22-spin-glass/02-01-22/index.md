@@ -45,6 +45,32 @@ show_related: False
 profile: False
 ---
 
+### Recap of the Meeting
+
+---
+
+- We introduced the Sherrington-Kirkpatrick model, translating spin glass vocabulary such as overlap, the partition function, and free energy, to concepts in optimization.
+
+- We stated the Parisi Variational Principle and attempted to build a geometric picture of how the dynamics in Parisi's equations evolve.
+
+- We stated an anology between Parisi's equations and Hamilton-Jacobi equations where the "Hamiltonian" is given by the L2-norm squared.
+
+- We outlined various conjectures regarding how certain first-order optimization methods such as (stochastic) gradient descent might arise from a more algorithmic proof of Parisi's Variational Principle, using how we currently understand them to arise from the studying Hamilton-Jacobi equations as an analogy.
+
+- We stated the over-arching theme of this tutorial sequence, and outlined plans for subsequent meetings.
+
+- **Next time** we focus on the mathematical objects that arise in proving Parisi's variational principle, and begin discussing the replica symmetry (breaking) ansatzen.
+
+
+### Material
+
+---
+
+- [TBA] [Hand-written notes]()
+
+- [TBA] [Typed presentation notes]()
+
+
 ### Full Reference List
 
 ---
@@ -109,3 +135,5 @@ Online lectures
 - (2020) [_Incremental Approximate Message Passing_](https://simons.berkeley.edu/talks/pedagogical-talk-analysis-approximate-message-passing-algorithms) -- Ahmed Al Alaoui (Simons semester on Computation Phase Transitions)
 - (2021) _Approximate Message Passing Algorithms_ [[1]](https://simons.berkeley.edu/talks/title-tba-17), [[2]](https://simons.berkeley.edu/talks/title-tba-18) -- Cynthia Rush (Simons semester on the Computational Complexity of Statistical Inference)
 - (2021) _Optimal iterative algorithms for problems with random data_ [[1]](https://simons.berkeley.edu/talks/title-tba-15), [[2]](https://simons.berkeley.edu/talks/title-tba-16) -- Andrea Montanari (Simons semester on the Computational Complexity of Statistical Inference)
+
+---
