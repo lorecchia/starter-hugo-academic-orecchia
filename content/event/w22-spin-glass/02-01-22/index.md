@@ -66,9 +66,9 @@ profile: False
 
 ---
 
-- [TBA] [Hand-written notes]()
+- [Presentation notes](https://uchicago.box.com/s/zp6vtd0embg2gzg4h7vka1c98cf464ag)
 
-- [TBA] [Typed presentation notes]()
+- [TBA] [Scribe notes]() by Juspreet Singh Sandhu
 
 
 ### Full Reference List
