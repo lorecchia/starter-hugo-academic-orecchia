@@ -76,10 +76,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [A Data Structure for High-dimensional Manifold Representation Amenable to Riemannian Optimization]({{< ref "event/theory-lunch/02-02-22/index.md" >}})
-> Feb 2, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### [Decision Tree Complexity of String Matching]({{< ref "event/theory-lunch/02-09-22/index.md" >}})
+> Feb 9, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Ryan Robinett](https://people.cs.uchicago.edu/~robinett/) (University of Chicago)
+> [Neng Huang](https://people.cs.uchicago.edu/~nenghuang/) (University of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->

@@ -1,12 +1,12 @@
 ---
-title: "[TBA]"
+title: "Decision Tree Complexity of String Matching"
 event: Theory Lunch
 
 #event_url:
 math: true
 subtitle: "[Neng Huang](https://people.cs.uchicago.edu/~nenghuang/) University of Chicago"
 summary: "[Neng Huang](https://people.cs.uchicago.edu/~nenghuang/)"
-abstract: "TBA."
+abstract: "String matching is one of the most fundamental problems in computer science. A natural problem is to determine the number of characters that need to be queried in a string in order to decide if this string contains a certain pattern as a substring. When the alphabet is binary, this is equivalent to the decision tree complexity of string matching. In this talk, I will describe a formula that answers this question for almost every pattern."
 
 # Talk start and end times.
 date: "2022-02-09T12:30:00Z"
