@@ -66,9 +66,9 @@ profile: False
 
 ---
 
-- [Presentation notes](https://uchicago.box.com/s/zp6vtd0embg2gzg4h7vka1c98cf464ag)
+- [[pdf]](https://uchicago.box.com/s/zp6vtd0embg2gzg4h7vka1c98cf464ag) Scanned presentation notes
 
-- [TBA] [Scribe notes]() by Juspreet Singh Sandhu
+- [[link]](https://hackmd.io/7uHy7d7CR_O_5mZtZOcWQA?both) Scribe notes -- Juspreet Singh Sandhu (see *Day 1*)
 
 
 ### Full Reference List

@@ -1,15 +1,15 @@
 ---
-title: "Week 2 - Revisiting Parisi's Equations and the Replica Method"
+title: "Week 3 - Replica Symmetry Breaking and Previewing the Proof"
 event: Algorithmic Methods in Statistical Physics
 
 math: true
 subtitle: "[Antares Chen](https://antaresc.github.io/) University of Chicago"
 summary: "[Antares Chen](https://antaresc.github.io/)"
-abstract: "We revisit our geometric interpretation of the Parisi equations via a few interactive demos. We then discuss the historical origins of the Parisi Variational Principle via the Replica method. We demonstrate calculations leading to the action integral form of the replicated free energy, setting us up to introduce Replica Symmetry Breaking next time."
+abstract: "We work through the Replica method calculation under 1-RSB, k-RSB, and sketch the transition to full-RSB. We then discuss the historical development leading to a proof of the Parisi Variational Principle, previewing key mathematical objects along the way."
 
 # Talk start and end times.
-date: "2022-02-08T10:30:00Z"
-date_end: "2022-02-08T12:00:00Z"
+date: "2022-02-15T10:30:00Z"
+date_end: "2022-02-15T12:00:00Z"
 location: "JCL 390"
 all_day: false
 show_date: false
@@ -56,10 +56,6 @@ profile: False
 
 ---
 
-- [[pdf]](https://uchicago.box.com/s/jr3wpjbez9txgcpcp0l1qykm4pjcv733) Scanned presentation notes
-
-- [[demo]](https://www.wolframcloud.com/obj/7c33d701-c08b-4de2-bbba-6fc7888336ee) [[source]](https://uchicago.box.com/s/4hd1v9wulou9e4bwmjnvtnwuw4e999ra) Plotting Parisi's equations
-
-- [[link]](https://hackmd.io/7uHy7d7CR_O_5mZtZOcWQA?both) Scribe notes -- Juspreet Singh Sandhu (see *Day 2*)
+- [[link]](https://hackmd.io/7uHy7d7CR_O_5mZtZOcWQA?both) Scribe notes -- Juspreet Singh Sandhu (see *Day 3*)
 
 ---
