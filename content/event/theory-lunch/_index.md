@@ -16,6 +16,8 @@ header:
   image: ""
 
 weight: 20
+
+math: True
 ---
 
 {{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Theoretical%20CS%20at%20UChicago&showPrint=0&showTitle=0&src=Y19vc2dmMWMxcWVtZHJhczhtdTdsN3BkaGpyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457&color=%23C0CA33" >}}
@@ -76,10 +78,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Decision Tree Complexity of String Matching]({{< ref "event/theory-lunch/02-09-22/index.md" >}})
-> Feb 9, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### [Finding Vertex Separators by Solving Saddle-point Problems]({{< ref "event/theory-lunch/02-16-22/index.md" >}})
+> Feb 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Neng Huang](https://people.cs.uchicago.edu/~nenghuang/) (University of Chicago)
+> [Antares Chen](https://antaresc.github.io/) (University of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
