@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 20  # Order that this section will appear.
 title: "Group Photos"
 subtitle: ""
-hero_media: hero.jpg
+hero_media: "/media/img/group/group.jpg"
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
