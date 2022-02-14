@@ -1,15 +1,15 @@
 ---
-title: "Week 3 - The Replica Symmetric Estimate of SK Free Energy"
+title: "Week 4 - Replica Symmetry Breaking and Previewing the Proof"
 event: Algorithmic Methods in Statistical Physics
 
 math: true
 subtitle: "[Antares Chen](https://antaresc.github.io/) University of Chicago"
 summary: "[Antares Chen](https://antaresc.github.io/)"
-abstract: "We begin by introducing the limit identity that drives the replica method calcuation, and give an overview of how the computations are carried out. We then compute the action integral form of the free energy, and give an overview of the family of Replica Symmetry Breaking ansatzen. We conclude by computing the replica symmetric free energy estimate."
+abstract: "We work through the Replica method calculation under 1-RSB. We then sketch the transition from k-RSB to full-RSB, and in particular how the form of Parisi's variational principle falls as a consequence of the full-RSB estimate. We then discuss the historical development leading to a proof of the Parisi Variational Principle, previewing key mathematical objects along the way."
 
 # Talk start and end times.
-date: "2022-02-15T10:30:00Z"
-date_end: "2022-02-15T12:00:00Z"
+date: "2022-02-22T10:30:00Z"
+date_end: "2022-02-22T12:00:00Z"
 location: "JCL 390"
 all_day: false
 show_date: false
@@ -56,6 +56,6 @@ profile: False
 
 ---
 
-- [[pdf]](https://uchicago.box.com/s/4wwhcq2qacumyt1nirratd85iqtaataj) Scanned presentation notes
+- [TBA]
 
 ---
