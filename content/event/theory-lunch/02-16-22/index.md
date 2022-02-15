@@ -1,12 +1,12 @@
 ---
-title: "Finding Vertex Separators by Solving Saddle-point Problems"
+title: "Solving Covering / Packing LPs via Saddle-point Problems"
 event: Theory Lunch
 
 #event_url:
 math: true
 subtitle: "[Antares Chen](https://antaresc.github.io/) University of Chicago"
 summary: "[Antares Chen](https://antaresc.github.io/)"
-abstract: "TBA."
+abstract: "Packing linear programs $$\\max \\\\{ \\langle c, x \\rangle : Ax \\leq b, \\\\, x \\geq 0 \\\\}$$ and their dual covering linear programs $$\\min \\\\{ \\langle b, y \\rangle : A^{\\top}y \\geq c, \\\\, y \\geq 0 \\\\}$$ are special cases of linear programming where the variables, coefficients, and constraints are non-negative. In this talk, we present some initial calculations that derive an algorithm for approximately solving packing and covering LPs via minimizing the duality gap -- the difference between the packing and covering objectives. An interesting aspect of our calculations is that the duality gap comes from reformulating the LP as a 2-v-2 game captured by a saddle point problem. Our algorithm emerges by requiring players of the game to adopt a specific strategy. However, other algorithms with potentially faster convergence rates may emerge by requiring players of the 2-v-2 game to adopt other strategies. Based on joint work with Lorenzo Orecchia, and Erasmo Tani."
 
 # Talk start and end times.
 date: "2022-02-16T12:30:00Z"

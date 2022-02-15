@@ -52,6 +52,8 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
+**(2/14/22) Lunch Restrictions Lifted** We can now **serve lunch** on Wednesdays. Hope to see you there!
+
 **(1/15/22) Looking for Speakers** We are looking for presenters for the winter quarter. Please send an email to Antares Chen *antaresc (at) uchicago (dot) edu* if you are interested! We actively encourage talks without slides.
 
 **(1/9/22) Lunch Restrictions** Due to current COVID-19 restrictions, we are unable to offer catered lunch.
@@ -78,7 +80,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Finding Vertex Separators by Solving Saddle-point Problems]({{< ref "event/theory-lunch/02-16-22/index.md" >}})
+> #### [Solving Covering / Packing LPs via Saddle-point Problems]({{< ref "event/theory-lunch/02-16-22/index.md" >}})
 > Feb 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
 > [Antares Chen](https://antaresc.github.io/) (University of Chicago)
