@@ -4,7 +4,7 @@ event: Theory Lunch
 
 #event_url:
 math: true
-subtitle: "[Max Ovsiankin](https://maxov.org/)"
+subtitle: "[Max Ovsiankin](https://maxov.org/) TTIC"
 summary: "[Max Ovsiankin](https://maxov.org/)"
 abstract: "TBA."
 
