@@ -80,10 +80,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [TBA]({{< ref "event/theory-lunch/02-23-22/index.md" >}})
+> #### [Local Quantum Algorithms and the Overlap Gap Property]({{< ref "event/theory-lunch/02-23-22/index.md" >}})
 > Feb 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Juspreet Singh Sandhu](https://jssandh2.github.io/Juspreet-Sandhu/) (Harvard University)
+> [Juspreet Singh Sandhu](https://juspreetsandhu.me/) (Harvard University)
 
 <!-- ******** -->
 <!-- SCHEDULE -->

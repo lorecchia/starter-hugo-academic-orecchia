@@ -1,12 +1,18 @@
 ---
-title: "[TBA]"
+title: "Local Quantum Algorithms and the Overlap Gap Property"
 event: Theory Lunch
 
 #event_url:
 math: true
-subtitle: "[Juspreet Singh Sandhu](https://jssandh2.github.io/Juspreet-Sandhu/) Harvard University"
-summary: "[Juspreet Singh Sandhu](https://jssandh2.github.io/Juspreet-Sandhu/)"
-abstract: "TBA."
+subtitle: "[Juspreet Singh Sandhu](https://juspreetsandhu.me/) Harvard University"
+summary: "[Juspreet Singh Sandhu](https://juspreetsandhu.me/)"
+abstract: "We briefly give an overview of a recent result in which we obstruct all _local_ algorithms (classical or quantum) on almost all instances of _any_ constraint satisfaction problem that satisfies a peculiar property called the coupled-Overlap Gap Property. Our results rely on using some involved combinatorics and a martingale argument to prove strong concentration properties of a notion of local algorithm we term \"generic local\" - This notion subsumes local classical and local quantum algorithms.
+
+
+The work is closely motivated by and/or tied to some interesting open questions at the intersection of Spin Glass Theory, Quantum inapproximability, Random & Algebraic Graph Theory and the Average-Case Complexity of CSPs. We mention some of these questions, which are currently ongoing work with collaborators at Bocconi University, ETH Zurich and University of Chicago.
+
+
+Based on joint work with Chi-Ning Chou, Peter J. Love & Jonathan Shi."
 
 # Talk start and end times.
 date: "2022-02-23T12:30:00Z"
