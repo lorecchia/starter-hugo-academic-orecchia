@@ -49,7 +49,38 @@ profile: False
 
 ---
 
-- [TBA]
+We began our discussion of the replica method by discussing the replica limit identity
+
+- The following identity holds when the expectation is taken over a distribution with finite moments.
+$$
+\mathbb{E} \big[ \log Z_n(\beta) \big]
+= \lim_{r \rightarrow 0} \frac{1}{r} \cdot \log \Big( \mathbb{E} \big[ Z_n^r \big] \Big)
+$$
+
+- The replica method is then a heuristic computation method used to estimate the free energy via the above limit identity like so
+$$
+\lim_{n \rightarrow \infty} \frac{1}{n} \mathbb{E} \big[ \log Z_n(\beta) \big]
+\approx \lim_{n \rightarrow \infty} \lim_{r \rightarrow 0} \frac{1}{nr} \cdot \log \Big( \mathbb{E} \big[ Z_n^r \big] \Big)
+$$
+
+We then spent the meeting on discussing
+
+- An overview to different stages of the replica computation: Pre-ansatzen, ansatzen, and post-ansatzen
+
+- Reasons why the replica method is a heuristic method of computation
+
+- The replica symmetric ansatzen, and a sketch of $k$-replica symmetry breaking
+
+- The initial steps of the computation required to deduce the action (exponential) integral form of the free energy.
+
+We ended on an expression for $\mathbb{E} \big[ Z_n^r \big]$ given by
+
+$$
+\mathbb{E} \big[ Z_n^r \big]
+= \sum_{\\\{ \sigma^{(a)}_i \\\}_a} \prod_{i,j}^n \sqrt{\frac{n}{2\pi}} \int e^{- \frac{n}{2} \cdot z_{ij}^2} \cdot \exp \bigg( \beta \sum_{a=1}^r z_{ij} \cdot \sigma_i^{(a)} \sigma_j^{(a)} \bigg) \\\, dz_{ij}
+$$
+
+
 
 
 ### Material

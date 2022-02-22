@@ -1,15 +1,15 @@
 ---
-title: "Week 4 - Completing RS, Introducing Replica Symmetry Breaking"
+title: "Week 5 - Replica Symmetry Breaking and Previewing the Proof"
 event: Algorithmic Methods in Statistical Physics
 
 math: true
 subtitle: "[Antares Chen](https://antaresc.github.io/) University of Chicago"
 summary: "[Antares Chen](https://antaresc.github.io/)"
-abstract: "We finish computing the Replica Symmetric estimate for the free energy of the Sherrington-Kirkpatrick model. We then formally describe the Replica Symmetry Breaking family of ansatzen using laminar families."
+abstract: "We work through the Replica method calculation under 1-RSB. We then sketch the transition from k-RSB to full-RSB, and in particular how the form of Parisi's variational principle falls as a consequence of the full-RSB estimate. We then discuss the historical development leading to a proof of the Parisi Variational Principle, previewing key mathematical objects along the way."
 
 # Talk start and end times.
-date: "2022-02-22T10:30:00Z"
-date_end: "2022-02-22T12:00:00Z"
+date: "2022-03-01T10:30:00Z"
+date_end: "2022-03-01T12:00:00Z"
 location: "JCL 390"
 all_day: false
 show_date: false
@@ -56,6 +56,6 @@ profile: False
 
 ---
 
-- [[pdf]](https://uchicago.box.com/s/umaqgenaxlve5ckg2rmgqz1in6m8zinu) Scanned presentation notes
+- [TBA]
 
 ---
