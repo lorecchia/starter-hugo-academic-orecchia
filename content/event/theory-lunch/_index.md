@@ -80,10 +80,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Local Quantum Algorithms and the Overlap Gap Property]({{< ref "event/theory-lunch/02-23-22/index.md" >}})
-> Feb 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### [Streaming Algorithms for Ellipsoidal Approximation of Convex Polytopes]({{< ref "event/theory-lunch/03-02-22/index.md" >}})
+> Mar 02, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Juspreet Singh Sandhu](https://juspreetsandhu.me/) (Harvard University)
+> [Max Ovsiankin](https://maxov.org/) (Toyota Technological Institute of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
