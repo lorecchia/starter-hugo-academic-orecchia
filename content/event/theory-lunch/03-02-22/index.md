@@ -1,12 +1,12 @@
 ---
-title: "[TBA]"
+title: "Streaming Algorithms for Ellipsoidal Approximation of Convex Polytopes"
 event: Theory Lunch
 
 #event_url:
 math: true
 subtitle: "[Max Ovsiankin](https://maxov.org/) Toyota Technological Institute Chicago"
 summary: "[Max Ovsiankin](https://maxov.org/)"
-abstract: "TBA."
+abstract: "John's theorem is a useful result that says that any symmetric convex body can be well-approximated by some ellipsoid with an approximation factor that is the square root of the dimension of the body. Ellipsoidal approximations more generally have been applied to approximating the volume of convex bodies and sampling from them using Markov chains, and have been applied in other areas such as online optimization. We present new streaming algorithms for finding ellipsoidal approximations when these convex bodies are polytopes. These algorithms are well-suited to low-memory or online settings, and their runtime matches that of the best known algorithms for the offline setting. The approximation factor differs from the offline solution only by a factor sub-logarithmic in the aspect ratio of the polytope. Based on joint work with Naren Manoj and Yury Makarychev."
 
 # Talk start and end times.
 date: "2022-03-02T12:30:00Z"
