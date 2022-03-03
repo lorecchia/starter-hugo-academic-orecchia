@@ -10,7 +10,7 @@ abstract: "The heat diffusion on a graph is a linear system of ODEs that has fou
 # Talk start and end times.
 date: "2022-03-04T12:00:00Z"
 date_end: "2022-04-09T13:00:00Z"
-location: "JCL 398"
+location: "JCL 298"
 all_day: false
 show_date: false
 
