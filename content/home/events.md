@@ -5,6 +5,7 @@ widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true
 active: true  # Activate this widget? true/false
 unsafe: true
+math: true
 
 weight: 20  # Order that this section will appear.
 
