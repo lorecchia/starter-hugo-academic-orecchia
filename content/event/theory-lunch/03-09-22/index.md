@@ -1,5 +1,5 @@
 ---
-title: "An $O\\big( m^{4/3+o(1)} \\big)$ Algorithm for Max Flow on Unit Capacity Graphs"
+title: "An $O \\left( m^{4/3+o(1)} \\right)$ Algorithm for Max Flow on Unit Capacity Graphs"
 event: Theory Lunch
 
 math: true
