@@ -2,7 +2,6 @@
 title: "An $O\\big( m^{4/3+o(1)} \\big)$ Algorithm for Max Flow on Unit Capacity Graphs"
 event: Theory Lunch
 
-#event_url:
 math: true
 subtitle: "[Tarun Kathuria](https://tarunkathuria.github.io/) University of California Berkeley"
 summary: "[Tarun Kathuria](https://tarunkathuria.github.io/)"
