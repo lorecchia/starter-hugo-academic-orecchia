@@ -1,10 +1,8 @@
 ---
-math: true
-
 title: "An $O \\left( m^{4/3+o(1)} \\right)$ Algorithm for Max Flow on Unit Capacity Graphs"
 event: Theory Lunch
 
-
+math: true
 subtitle: "[Tarun Kathuria](https://tarunkathuria.github.io/) University of California Berkeley"
 summary: "[Tarun Kathuria](https://tarunkathuria.github.io/)"
 abstract: "In this talk, I'll talk about an interior point method, inspired by potential reduction methods, for the maximum flow problem. I'll first show how to recover the $O( \\sqrt{m})$ iteration algorithm while ensuring progress dependent only on the $\\infty$-norm of the congestion of the flow, which was the main bottleneck of previous approaches. Then, I'll show how to combine it with weight changing strategies of Madry and improvements by Liu and Sidford using $\\ell_2$-$\\ell_p$ flows to get the desired runtime of $O(m^{1/3+o(1)})$ for unit capacity graphs. Based on recent work by myself and independently obtained by Liu and Sidford."
