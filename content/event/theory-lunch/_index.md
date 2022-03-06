@@ -51,6 +51,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 ### Notices
 
 ---
+**(3/4/22) Extended attendance approved** We can now have more people come to the in person event! Our current attendance cap is 40; participants are required to mask except when sitting and actively eating or drinking. In order to support individuals who may require social distance, at least one table will be designated as "masked only."
 
 **(2/14/22) Lunch Restrictions Lifted** We can now **serve lunch** on Wednesdays. Hope to see you there!
 
@@ -80,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Streaming Algorithms for Ellipsoidal Approximation of Convex Polytopes]({{< ref "event/theory-lunch/03-02-22/index.md" >}})
-> Mar 02, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### [An O(m^{4/3+o(1)) Algorithm for Max Flow on Unit Capacity Graphs]({{< ref "event/theory-lunch/03-09-22/index.md" >}})
+> Mar 09, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Max Ovsiankin](https://maxov.org/) (Toyota Technological Institute of Chicago)
+> [Tarun Kathuria](https://tarunkathuria.github.io/) (University of California Berkeley)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
