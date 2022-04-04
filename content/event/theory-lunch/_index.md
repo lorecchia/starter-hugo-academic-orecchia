@@ -81,8 +81,8 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Comming soon!]({{< ref "event/theory-lunch/04-06-22/index.md" >}})
-> TBA, week of April 4th-April 8th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### ["NoPe- Not so easily"]({{< ref "event/theory-lunch/04-06-22/index.md" >}})
+> April 6th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
 > [Tushant Mittal](https://mittaltushant.github.io/) (University of Chicago)
 
