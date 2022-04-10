@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 authors:
 tags:
 - theory lunch
-- winter 2022
+- spring 2022
 
 # Is this a featured talk? (true/false)
 featured: false
