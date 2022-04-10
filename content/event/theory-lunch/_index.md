@@ -81,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["NoPe- Not so easily"]({{< ref "event/theory-lunch/04-06-22/index.md" >}})
-> April 6th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### ["Concentration of polynomial random matrices via Efron-Stein inequalities"]({{< ref "event/theory-lunch/04-13-22/index.md" >}})
+> April 13th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
 >
-> [Tushant Mittal](https://mittaltushant.github.io/) (University of Chicago)
+> [Goutham Rajendran](http://people.cs.uchicago.edu/~goutham/) (University of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
