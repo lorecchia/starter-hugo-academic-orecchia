@@ -5,7 +5,7 @@ event: Theory Lunch
 math: true
 subtitle: "[Tushant Mittal](https://mittaltushant.github.io/) University of Chicago"
 summary: "[Tushant Mittal](https://mittaltushant.github.io/)"
-abstract: ""What's the big deal about proving something is in NP. Just guess and check". Or so thinks the insouciant young complexity theorist. Surely, there are problems that do not admit efficient NP certificates but it is tricky to come up with natural problems which we believe must be in NP but the proof is non-trivial. We discuss a quick proof that one very natural problem is in NP (which actually is in P). We then look at a larger family of examples and depending on the time, mention new results/open problems.  "
+abstract: "What's the big deal about proving something is in NP? Just guess and check. Or so thinks the insouciant young complexity theorist. Surely, there are problems that do not admit efficient NP certificates but it is tricky to come up with natural problems which we believe must be in NP but the proof is non-trivial. We discuss a quick proof that one very natural problem is in NP (which actually is in P). We then look at a larger family of examples and depending on the time, mention new results/open problems.  "
 
 # Talk start and end times.
 date: "2022-04-06T12:30:00Z"
