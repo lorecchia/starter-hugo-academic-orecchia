@@ -81,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Concentration of polynomial random matrices via Efron-Stein inequalities"]({{< ref "event/theory-lunch/04-13-22/index.md" >}})
-> April 13th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390
+> #### ["From Sampling to Optimization on Discrete Domains with Applications to Determinant Maximization"]({{< ref "event/theory-lunch/04-20-22/index.md" >}})
+> April 20th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 280 *note the change in place!*
 >
-> [Goutham Rajendran](http://people.cs.uchicago.edu/~goutham/) (University of Chicago)
+> [June Vuong](https://tdvuong.people.stanford.edu/about) (Stanford University)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
