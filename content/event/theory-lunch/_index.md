@@ -82,7 +82,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 ---
 
 > #### ["From Sampling to Optimization on Discrete Domains with Applications to Determinant Maximization"]({{< ref "event/theory-lunch/04-20-22/index.md" >}})
-> April 20th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 280 *note the change in place!*
+> April 20th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298 *note the change in place!*
 >
 > [June Vuong](https://tdvuong.people.stanford.edu/about) (Stanford University)
 
