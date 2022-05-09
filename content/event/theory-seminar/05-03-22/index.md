@@ -10,13 +10,13 @@ abstract: "Training a predictor to minimize a loss function fixed in advance is 
 
 While differently motivated, this alternative paradigm for training predictors gives unexpected consequences, including:
 
-1. Practical methods for learning in a heterogeneous population, employed in the field to predict COVID-19 complications at a very early stage of the pandemic.
+1) Practical methods for learning in a heterogeneous population, employed in the field to predict COVID-19 complications at a very early stage of the pandemic.
 
-2. A computational perspective on the meaning of individual probabilities.
+2) A computational perspective on the meaning of individual probabilities.
 
-3. A rigorous new paradigm for loss minimization in machine learning, through the notion of omni predictors, that simultaneously applies to a wide class of loss-functions, allowing the specific loss function to be ignored at the time of learning.
+3) A rigorous new paradigm for loss minimization in machine learning, through the notion of omni predictors, that simultaneously applies to a wide class of loss-functions, allowing the specific loss function to be ignored at the time of learning.
 
-4. A method for adapting a statistical study on one probability distribution to another, which is blind to the target distribution at the time of inference and is competitive with wide-spread methods based on propensity scoring.
+4) A method for adapting a statistical study on one probability distribution to another, which is blind to the target distribution at the time of inference and is competitive with wide-spread methods based on propensity scoring.
 
 Based on a sequence of works joint with (subsets of) Cynthia Dwork, , Shafi Goldwasser, Parikshit Gopalan, Úrsula Hébert-Johnson, Adam Kalai, Christoph Kern, Michael P. Kim, Frauke Kreuter, Guy N. Rothblum, Vatsal Sharan, Udi Wieder, Gal Yona."
 
