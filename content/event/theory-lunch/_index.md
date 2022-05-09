@@ -81,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Practical Nearly-Linear-Time Approximation Algorithms for Hybrid and Overlapping Graph Clustering"]({{< ref "event/theory-lunch/05-04-22/index.md" >}})
-> May 4th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
+> #### ["Testing thresholds for sparse random geometric graphs"]({{< ref "event/theory-lunch/05-11-22/index.md" >}})
+> May 11th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
 >
-> [Konstantinos Ameranis](https://people.cs.uchicago.edu/~kameranis/) (The University of Chicago)
+> [Sidanth Mohanty](http://sidhanthm.com/) (The University of Chicago)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
