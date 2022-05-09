@@ -19,3 +19,16 @@ weight: 10
 {{< calendar "https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&title=Theoretical%20CS%20at%20UChicago&showPrint=0&showTitle=0&src=Y19vc2dmMWMxcWVtZHJhczhtdTdsN3BkaGpyc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YzU3c2hpY2k0NW0xN3FsMGdodmw1NmVrMzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23AD1457&color=%23C0CA33" >}}
 
 ---
+
+<!-- ***************** -->
+<!-- LOGISTICS SECTION -->
+<!-- ***************** -->
+### Logistics
+
+---
+
+**Location** Kent 107 (large auditorium on first floor)
+
+**Time** Tuesday at 3:30pm - 4:30pm
+
+**Logistics** Announcements for speakers will be sent to the Univ. of Chicago [Theory mailing list](https://mailman.cs.uchicago.edu/mailman/listinfo/theory) as well as the Combinatorics and TCS seminar calendar.
