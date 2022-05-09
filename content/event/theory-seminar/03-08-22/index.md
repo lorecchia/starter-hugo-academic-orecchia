@@ -15,8 +15,8 @@ This beautiful result exemplifies a long-standing theme in model theory, namely 
 In this talk I will present recent joint work with Caroline Terry (OSU), in which we define a higher-arity generalisation of the order property and prove that its absence characterises those large 3-uniform hypergraphs whose regularity decompositions allow for particularly good control of the irregular triads. "
 
 # Talk start and end times.
-date: "2022-02-22T15:30:00Z"
-date_end: "2022-01-25T17:00:00Z"
+date: "2022-03-08T15:30:00Z"
+date_end: "2022-03-08T17:00:00Z"
 all_day: false
 show_date: false
 
