@@ -1,5 +1,5 @@
 ---
-title: "How do you build a search-engine for code? Code search involves two problems: translation and information retrieval. In this talk I’ll discuss relevant methods from both areas and how we can combine them to create new techniques. Additionally, we’ll discuss some limitations and concerns about popular modern code search practices."
+title: "Where did you come from? Where did you go? Searching for Code"
 event: Theory Lunch
 
 math: true
