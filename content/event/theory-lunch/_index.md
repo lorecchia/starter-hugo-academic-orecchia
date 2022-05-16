@@ -81,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Testing thresholds for sparse random geometric graphs"]({{< ref "event/theory-lunch/05-11-22/index.md" >}})
-> May 11th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
+> #### ["Where did you come from? Where did you go? Searching for Code"]({{< ref "event/theory-lunch/05-18-22/index.md" >}})
+> May 18th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
 >
-> [Sidanth Mohanty](http://sidhanthm.com/) (The University of Chicago)
+> Sabrina Evans (Bloop AI)
 
 <!-- ******** -->
 <!-- SCHEDULE -->
