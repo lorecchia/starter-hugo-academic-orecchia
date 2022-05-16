@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Yufei Zhao](https://yufeizhao.com/) Massachusetts Institute of Technology"
-summary: "[Yufei Zhao](https://yufeizhao.com/)"
+summary: "[Yufei Zhao](https://yufeizhao.com/) Massachusetts Institute of Technology" 
 abstract: "How many k-SAT functions on n boolean variables are there? What does a typical such function look like?
 
 Bollobás, Brightwell, and Leader conjectured that for each fixed k, almost every k-SAT function is unate.
