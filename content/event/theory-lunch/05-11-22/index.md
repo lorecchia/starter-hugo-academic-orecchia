@@ -12,8 +12,8 @@ A fundamental question is: when is a random geometric graph a faithful model for
 Based on joint work with Siqi Liu, Tselil Schramm, and Elizabeth Yang (https://arxiv.org/abs/2111.11316)."
 
 # Talk start and end times.
-date: "2022-05-04T12:30:00Z"
-date_end: "2022-05-04T13:30:00Z"
+date: "2022-05-11T12:30:00Z"
+date_end: "2022-05-11T13:30:00Z"
 location: "JCL 390"
 all_day: false
 show_date: false
