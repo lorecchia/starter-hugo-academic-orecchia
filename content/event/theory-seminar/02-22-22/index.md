@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Chris Jones](http://people.cs.uchicago.edu/~csj/) University of Chicago"
-summary: "[Chris Jones](http://people.cs.uchicago.edu/~csj/)"
+summary: "[Chris Jones](http://people.cs.uchicago.edu/~csj/) University of Chicago"
 abstract: "We consider low-degree polynomials of inner products between a collection of random vectors. We give an explicit, almost-orthogonal basis for this vector space of polynomials when the random vectors are Gaussian, spherical, or Boolean. In all three cases, our basis admits an interesting combinatorial description based on the topology of the underlying graph of inner products. In the spherical case, interesting examples suggest a connection to graph planarity. 
 
 Based on joint work with Aaron Potechin."
