@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Julia Wolf](http://www.juliawolf.org/) University of Cambridge"
-summary: "[Julia Wolf](http://www.juliawolf.org/)"
+summary: "[Julia Wolf](http://www.juliawolf.org/) University of Cambridge"
 abstract: "Szemerédi's celebrated regularity lemma states, roughly speaking, that the vertex set of any large graph can be partitioned into a bounded number of sets in such a way that all but a small proportion of pairs of sets from this partition induce a ~regular~ graph. The example of the half-graph shows that the existence of irregular pairs cannot be ruled out in general. 
 
 Recognising the half-graph as an instance of the so-called 'order property' from model theory, Malliaris and Shelah proved in 2014 that if one assumes that the large graph contains no half-graphs of a fixed size (as induced bipartite subgraphs), then it is possible to obtain a regularity partition with no irregular pairs. In addition, the number of parts of the partition is polynomial in the regularity parameter, and the density of each regular pair is either close to zero or close to 1.
