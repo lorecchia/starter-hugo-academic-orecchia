@@ -55,7 +55,7 @@ math: True
 
 ---
 
-> #### ["TBA"]({{< ref "event/theory-seminar/05-24-22/index.md" >}})
+> #### ["On certified randomness from quantum advantage experiments"]({{< ref "event/theory-seminar/05-24-22/index.md" >}})
 > May 24th, 2022 3:30 PM — 4:30 PM &nbsp;&#8226;&nbsp; Kent 107.
 >
 > [Avishay Tal](https://www.avishaytal.org/) (The University of California Berkeley)
