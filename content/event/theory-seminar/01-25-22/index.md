@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Lorenzo Orecchia](https://orecchia.net/) University of Chicago"
-summary: "[Lorenzo Orecchia](https://orecchia.net/)"
+summary: "[Lorenzo Orecchia](https://orecchia.net/) University of Chicago"
 abstract: "Classical spectral graph theory is centered around the study of the quadratic forms of the graph Laplacian operator, through its structural relation to isoperimetric properties of the graph and his algorithmic connection with the heat diffusion process over the graph. In this talk, I will describe a generalization of this theory that focuses instead on bilinear forms of incidence operators and allows for more general structural results and novel algorithmic primitives. In particular, I will showcase a Hamiltonian analogue of the heat diffusion process that allows us to detect sparse vertex-based separators and describe its connection to the fastest-mixing markov chain over an unweighted undirected graph. This is joint work with Antares Chen and Erasmo Tani."
 
 # Talk start and end times.
