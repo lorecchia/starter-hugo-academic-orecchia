@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Omer Reingold](https://omereingold.wordpress.com/) Stanford University"
-summary: "[Omer Reingold](https://omereingold.wordpress.com/)"
+summary: "[Omer Reingold](https://omereingold.wordpress.com/) Stanford University"
 abstract: "Training a predictor to minimize a loss function fixed in advance is the dominant paradigm in machine learning. However, loss minimization by itself might fail to satisfy properties that come naturally in the context of algorithmic fairness. To remedy this, multi-group fairness notions such as multi calibration have been proposed, which require the predictor to share certain statistical properties of the ground truth, even when conditioned on a rich family of subgroups. These notions could be understood from the perspective of computational indistinguishability through the notion of outcome indistinguishability where a predictor can be viewed as giving a model of events that cannot be refused from empiric evidence within some computational bound.
 
 While differently motivated, this alternative paradigm for training predictors gives unexpected consequences, including:
