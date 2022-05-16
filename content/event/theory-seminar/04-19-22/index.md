@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[June Vuong](https://tdvuong.people.stanford.edu/about) Stanford University"
-summary: "[June Vuong](https://tdvuong.people.stanford.edu/about)"
+summary: "[June Vuong](https://tdvuong.people.stanford.edu/about) Stanford University"
 abstract: "In this talk, we will define a notion called entropic independence that is an entropic analog of spectral notions of high dimensional expansion. Informally, entropic independence of a background distribution µ on k-sized subsets of a ground set of elements says that for any (possibly randomly chosen) set S, the relative entropy of a single element of S drawn uniformly at random carries at most O(1/k) fraction of the relative entropy of S, a constant multiple of its “share of entropy.” Entropic independence is the natural analog of the recently established notion of spectral independence, if one replaces variance by entropy. Similar to how spectral independence is used to establish lower bounds on the Poincare constant of certain local random walks, we show a general way to derive lower bounds on the modified log Sobolev constant of these random walks using entropic independence.
 Our main applications include tight mixing time bounds for Glauber dynamics on Ising models whose interaction matrix has eigenspectrum lying within an interval of length smaller than 1, and for a variation of the Glauber dynamics to samplefrom the hardcore model on general graphs.up to the tree-uniqueness threshold. These results give a quadratic improvement over previously best bounds on the mixing time of these random walks.
 
