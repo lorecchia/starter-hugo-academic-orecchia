@@ -5,7 +5,7 @@ event: Theory Seminar
 #event_url:
 math: true
 subtitle: "[Will Perkins](http://willperkins.org/) University of Illinois at Chicago"
-summary: "[Will Perkins](http://willperkins.org/)"
+summary: "[Will Perkins](http://willperkins.org/) University of Illinois at Chicago"
 abstract: "I will describe how local central limit theorems (and Fourier-analytic proofs of local central limit theorems) can be used to design fast sampling algorithms and deterministic approximate counting algorithms for the number of independent sets and matchings of a given size in bounded degree graphs.  
 
 Joint work with Vishesh Jain, Ashwin Sah, and Mehtaab Sawhney."
