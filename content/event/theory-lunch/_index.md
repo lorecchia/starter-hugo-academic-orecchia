@@ -81,10 +81,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Where did you come from? Where did you go? Searching for Code"]({{< ref "event/theory-lunch/05-18-22/index.md" >}})
-> May 18th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
+> #### ["Understanding the Eluder Dimension"]({{< ref "event/theory-lunch/05-25-22/index.md" >}})
+> May 25th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
 >
-> Sabrina Evans (Bloop AI)
+> [Gene Li](https://gxli97.github.io/) Toyota Technological Institute at Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->
