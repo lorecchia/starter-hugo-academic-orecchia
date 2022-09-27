@@ -1,16 +1,16 @@
 ---
-title: "Where did you come from? Where did you go? Searching for Code"
+title: "[TBA]"
 event: Theory Lunch
 
 math: true
-subtitle: "Sabrina Evans, Bloop AI"
-summary: "Sabrina Evans"
-abstract: "How do you build a search-engine for code? Code search involves two problems: translation and information retrieval. In this talk I’ll discuss relevant methods from both areas and how we can combine them to create new techniques. Additionally, we’ll discuss some limitations and concerns about popular modern code search practices."
+subtitle: "[Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/), University of Chicago"
+summary: "[Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/)"
+abstract: "TBA"
 
 # Talk start and end times.
-date: "2022-05-18T12:30:00Z"
-date_end: "2022-05-18T13:30:00Z"
-location: "JCL 390"
+date: "2022-10-05T12:30:00Z"
+date_end: "2022-10-05T13:30:00Z"
+location: "JCL 298"
 all_day: false
 show_date: false
 
@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 authors:
 tags:
 - theory lunch
-- spring 2022
+- fall 2022
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -44,3 +44,7 @@ share: False
 show_related: False
 profile: False
 ---
+
+---
+
+Join via [Zoom](https://uchicago.zoom.us/j/91393333807?pwd=YkxPZEZ4ZG9TaTFkV0M3V0hPcU1zUT09)

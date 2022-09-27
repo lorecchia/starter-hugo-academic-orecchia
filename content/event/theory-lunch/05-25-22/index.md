@@ -4,7 +4,7 @@ event: Theory Lunch
 
 math: true
 subtitle: "[Gene Li](https://gxli97.github.io/), Toyota Technological Institute at Chicago"
-summary: "[Gene Li](https://gxli97.github.io/), Toyota Technological Institute at Chicago"
+summary: "[Gene Li](https://gxli97.github.io/)"
 abstract: "Russo and Van Roy introduced the notion of eluder dimension for a function class and used it to analyze algorithms for the multi-armed bandit problem with function approximation. Since then, eluder dimension has been extensively used to construct and analyze the regret of algorithms for bandits and reinforcement learning with function approximation. Despite widespread use, little is known about when the eluder dimension is bounded.
 
 This talk presents several new insights on the eluder dimension. We will focus on the so-called combinatorial eluder dimension. We prove an equivalence relationship with two other familiar learning-theoretic quantities, the star number and the threshold dimension. We also discuss separations between eluder dimension and sign-rank.

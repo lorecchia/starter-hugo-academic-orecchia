@@ -38,7 +38,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-**Location** John Crerar Library (JCL) 390 (large auditorium on third floor)
+**Location** John Crerar Library (JCL) 298 (large classroom on second floor)
 
 **Time** Every Wednesday at 12:30pm - 1:30pm
 
@@ -51,16 +51,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 ### Notices
 
 ---
-**(3/4/22) Extended attendance approved** We can now have more people come to the in person event! Our current attendance cap is 40; participants are required to mask except when sitting and actively eating or drinking. In order to support individuals who may require social distance, at least one table will be designated as "masked only."
-
-**(2/14/22) Lunch Restrictions Lifted** We can now **serve lunch** on Wednesdays. Hope to see you there!
-
-**(1/15/22) Looking for Speakers** We are looking for presenters for the winter quarter. Please send an email to Antares Chen *antaresc (at) uchicago (dot) edu* if you are interested! We actively encourage talks without slides.
-
-**(1/9/22) Lunch Restrictions** Due to current COVID-19 restrictions, we are unable to offer catered lunch.
-
-**(1/9/22) From the UChicago PSD** This convening is open to all invitees who are compliant with UChicago vaccination requirements and, because of ongoing health risks, particularly to the unvaccinated, participants are expected to adopt the risk mitigation measures (masking and social distancing, etc.) appropriate to their vaccination status as advised by public health officials or to their individual vulnerabilities as advised by a medical professional. Public convening may not be safe for all and carries a risk for contracting COVID-19, particularly for those unvaccinated. Participants will not know the vaccination status of others and should follow appropriate risk mitigation measures.
-
+**(9/27/22) Looking for Speakers** Welcome back everyone, we're actively looking for speakers for the fall quarter. Please send an email to Chris Kang *ctkang (at) uchicago (dot) edu* if you are interested! We actively encourage talks without slides.
 
 <!-- ******************** -->
 <!-- ADDITIONAL RESOURCES -->
@@ -81,10 +72,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Understanding the Eluder Dimension"]({{< ref "event/theory-lunch/05-25-22/index.md" >}})
-> May 25th, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 390.
+> #### ["Adapting to failure of the IID assumption"]({{< ref "event/theory-lunch/09-28-22/index.md" >}})
+> September 28, 2022 12:30 PM — 1:45 PM &nbsp;&#8226;&nbsp; JCL 298.
 >
-> [Gene Li](https://gxli97.github.io/) Toyota Technological Institute at Chicago
+> [Jeffrey Negrea](https://utstat.toronto.edu/~negrea/) University of Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->
