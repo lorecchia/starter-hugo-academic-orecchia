@@ -62,7 +62,7 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 -  Time-sheets for the [171](https://www.transitchicago.com/assets/1/6/bus-tt_171.pdf), [172](https://www.transitchicago.com/assets/1/6/bus-tt_172.pdf) bus that runs between TTIC and JCL.
 
--  If you are traveling from the University of Illinois Chicago or Northwestern University, please email Antares Chen *antaresc (at) uchicago (dot) edu* for help with parking and related logistics.
+-  If you are traveling from the University of Illinois Chicago or Northwestern University, please email Chris Kang *ctkang (at) uchicago (dot) edu* for help with parking and related logistics.
 
 
 <!-- ***************** -->
