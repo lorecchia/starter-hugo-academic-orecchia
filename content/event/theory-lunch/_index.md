@@ -72,10 +72,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Adapting to failure of the IID assumption"]({{< ref "event/theory-lunch/09-28-22/index.md" >}})
-> September 28, 2022 12:30 PM — 1:45 PM &nbsp;&#8226;&nbsp; JCL 298.
+> #### ["Surviving a Very Specific Alien Abduction or, an Introduction to Error Correcting Codes"]({{< ref "event/theory-lunch/10-05-22/index.md" >}})
+> October 5, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
 >
-> [Jeffrey Negrea](https://utstat.toronto.edu/~negrea/) University of Chicago
+> [Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/) University of Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->

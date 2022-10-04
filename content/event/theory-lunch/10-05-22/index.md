@@ -1,11 +1,11 @@
 ---
-title: "[TBA]"
+title: "Surviving a Very Specific Alien Abduction or, an Introduction to Error Correcting Codes"
 event: Theory Lunch
 
 math: true
 subtitle: "[Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/), University of Chicago"
 summary: "[Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/)"
-abstract: "TBA"
+abstract: "You and your N-1 friends are abducted by aliens and forced to play a game. Each of you receive, uniformly at random, a red or blue beskar helmet. Everyone can see everyone else's helmets but not their own. When a buzzer rings, you must simultaneously each either stay silent or correctly state the color of your helmet. You all win if every person who guessed a color was correct and at least one person guessed a color. How often can you win this game? Is this game just a popularity contest? Why are error correcting codes in the title? Is there a limit to how many times baby Yoda can appear in a slide deck? On Wednesday, we will answer all these questions and more!"
 
 # Talk start and end times.
 date: "2022-10-05T12:30:00Z"
