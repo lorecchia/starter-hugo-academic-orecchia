@@ -1,11 +1,11 @@
 ---
-title: "[TBA]"
+title: "Random Max-CSPs Inherit Algorithmic Hardness from Spin Glasses"
 event: Theory Lunch
 
 math: true
 subtitle: "[Kunal Marwaha](https://kunalmarwaha.com/), University of Chicago"
 summary: "[Kunal Marwaha](https://kunalmarwaha.com/)"
-abstract: "TBA"
+abstract: "We formalize a general and deep connection between two intensely studied classes of optimization problems: constraint satisfaction problems (CSPs), studied in computer science, and spin glass models, studied in statistical physics. We demonstrate that for dense enough random CSPs, the geometric properties of the set of nearly-optimal solutions converge to those of a corresponding spin glass model. In these spin glass models, the very same geometric properties imply bounds on the average-case approximability achieved by broad classes of algorithms; these bounds are conjectured to be the best possible among all polynomial-time algorithms. The correspondence we establish here implies that the same lower bounds apply to average-case CSPs. Joint work with Chris Jones, Juspreet Singh Sandhu, Jonathan Shi; https://arxiv.org/abs/2210.03006"
 
 # Talk start and end times.
 date: "2022-10-12T12:30:00Z"

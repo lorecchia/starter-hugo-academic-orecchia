@@ -72,10 +72,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Surviving a Very Specific Alien Abduction or, an Introduction to Error Correcting Codes"]({{< ref "event/theory-lunch/10-05-22/index.md" >}})
-> October 5, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
+> #### ["Random Max-CSPs Inherit Algorithmic Hardness from Spin Glasses"]({{< ref "event/theory-lunch/10-12-22/index.md" >}})
+> October 12, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
 >
-> [Abhijit Mudigonda](https://abhijit-mudigonda.github.io/about/) University of Chicago
+> [Kunal Marwaha](https://kunalmarwaha.com/), University of Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->
