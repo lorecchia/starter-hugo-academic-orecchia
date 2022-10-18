@@ -3,13 +3,13 @@ title: "[TBA]"
 event: Theory Lunch
 
 math: true
-subtitle: "[Lorenzo Orecchia](https://orecchia.net/), University of Chicago"
-summary: "[Lorenzo Orecchia](https://orecchia.net/)"
+subtitle: "[Kavya Ravichandran](https://kavyar314.github.io/), University of Chicago"
+summary: "[Kavya Ravichandran](https://kavyar314.github.io/)"
 abstract: "TBA"
 
 # Talk start and end times.
-date: "2022-11-02T12:30:00Z"
-date_end: "2022-11-02T13:30:00Z"
+date: "2022-11-16T12:30:00Z"
+date_end: "2022-11-16T13:30:00Z"
 location: "JCL 298"
 all_day: false
 show_date: false
@@ -47,4 +47,4 @@ profile: False
 
 ---
 
-Join via [Zoom](https://uchicago.zoom.us/j/92418862747?pwd=c0hpWEU4ZUhCT0NFYXVUZGpCZi9xZz09)
+Join via [Zoom](https://uchicago.zoom.us/j/91403790924?pwd=Qlh6TG1OOGZuMzFIM0E2U3ZoTGM2dz09)
