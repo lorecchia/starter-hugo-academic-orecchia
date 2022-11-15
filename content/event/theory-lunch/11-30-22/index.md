@@ -1,15 +1,15 @@
 ---
-title: "Spectral Graph Theory without a Spectrum: Diffusions on Hypergraphs and Their Convergence"
+title: "[TBA]"
 event: Theory Lunch
 
 math: true
-subtitle: "[Lorenzo Orecchia](https://orecchia.net/), University of Chicago"
-summary: "[Lorenzo Orecchia](https://orecchia.net/)"
-abstract: "Hypergraphs are straightforward generalizations of graphs for which the Laplacian operator is non-linear and non-differentiable. We show that, even in this general setting, we can efficiently simulate hypergraph heat diffusions and that a Poincare constant analogous to the spectral gap controls their convergence to the stationary heat distribution."
+subtitle: "[Antares Chen](https://antaresc.github.io/), University of Chicago"
+summary: "[Antares Chen](https://antaresc.github.io/)"
+abstract: "[TBA]"
 
 # Talk start and end times.
-date: "2022-11-02T12:30:00Z"
-date_end: "2022-11-02T13:30:00Z"
+date: "2022-11-30T12:30:00Z"
+date_end: "2022-11-30T13:30:00Z"
 location: "JCL 298"
 all_day: false
 show_date: false
@@ -47,4 +47,4 @@ profile: False
 
 ---
 
-Join via [Zoom](https://uchicago.zoom.us/j/92418862747?pwd=c0hpWEU4ZUhCT0NFYXVUZGpCZi9xZz09)
+Join via Zoom

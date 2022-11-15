@@ -1,11 +1,11 @@
 ---
-title: "[TBA]"
+title: "A Property Testing Approach to Identifying Heavy Tails in Distributions"
 event: Theory Lunch
 
 math: true
-subtitle: "[Kavya Ravichandran](https://kavyar314.github.io/), University of Chicago"
+subtitle: "[Kavya Ravichandran](https://kavyar314.github.io/), Toyota Technological Institute at Chicago"
 summary: "[Kavya Ravichandran](https://kavyar314.github.io/)"
-abstract: "TBA"
+abstract: "Hypothesis testing has been a mainstay of modern statistics for over 100 years. In this talk, we will discuss the property testing framework from theoretical computer science. We will start by discussing the setup and elementary results. Then, we will present our work on heavy-tailed distributions in a version of this framework. First, we define a parameterization of the notion of \"heavy-tailed.\" Then, we present a proxy quantity for measuring the tail weight and explain how to use it to determine whether a set of samples comes from a heavy-tailed distribution or not."
 
 # Talk start and end times.
 date: "2022-11-16T12:30:00Z"

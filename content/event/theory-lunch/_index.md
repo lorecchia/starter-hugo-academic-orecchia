@@ -72,10 +72,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["Random Max-CSPs Inherit Algorithmic Hardness from Spin Glasses"]({{< ref "event/theory-lunch/10-12-22/index.md" >}})
-> October 12, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
+> #### ["A Property Testing Approach to Identifying Heavy Tails in Distributions"]({{< ref "event/theory-lunch/11-16-22/index.md" >}})
+> November 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
 >
-> [Kunal Marwaha](https://kunalmarwaha.com/), University of Chicago
+> [Kavya Ravichandran](https://kavyar314.github.io/), Toyota Technological Institute at Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->
