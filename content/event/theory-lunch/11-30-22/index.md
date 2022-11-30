@@ -1,11 +1,14 @@
 ---
-title: "[TBA]"
+title: "Spectral Graph Theory Without a Spectrum II: Partitioning Hypergraphs via Network Flows"
 event: Theory Lunch
 
 math: true
 subtitle: "[Antares Chen](https://antaresc.github.io/), University of Chicago"
 summary: "[Antares Chen](https://antaresc.github.io/)"
-abstract: "[TBA]"
+abstract: "Last time, we discussed a non-linear and non-differentiable Laplacian operator for hypergraphs in which aspects of spectral graph theory still generalize to the hypergraph setting. Building on these tools, we discuss a primal-dual approximation algorithm for a specific class of hypergraph partitioning problems called \"minimum ratio-cut\". To do this, we construct a family of local, convex relaxations of the minimum ratio-cut problem, and compose dual solutions using \"cut-matching games\" to certify lower bounds on the minimum ratio-cut objective. This approach leads to the first $O(\\log n)$-approximation for hypergraph sparsest cut that runs in almost-linear time.
+
+
+Joint work with Konstantinos Ameranis, Lorenzo Orecchia, and Erasmo Tani."
 
 # Talk start and end times.
 date: "2022-11-30T12:30:00Z"
@@ -47,4 +50,4 @@ profile: False
 
 ---
 
-Join via Zoom
+Join via [Zoom](https://uchicago.zoom.us/j/99432914621?pwd=VEpkcnhySEx2dXpjNVF2TmNvV095Zz09)

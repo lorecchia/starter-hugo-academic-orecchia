@@ -72,10 +72,10 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### ["A Property Testing Approach to Identifying Heavy Tails in Distributions"]({{< ref "event/theory-lunch/11-16-22/index.md" >}})
-> November 16, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
+> #### [Spectral Graph Theory Without a Spectrum II: Partitioning Hypergraphs via Network Flows]({{< ref "event/theory-lunch/11-30-22/index.md" >}})
+> November 30, 2022 12:30 PM — 1:30 PM &nbsp;&#8226;&nbsp; JCL 298.
 >
-> [Kavya Ravichandran](https://kavyar314.github.io/), Toyota Technological Institute at Chicago
+> [Antares Chen](https://antaresc.github.io/), University of Chicago
 
 <!-- ******** -->
 <!-- SCHEDULE -->
