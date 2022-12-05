@@ -72,8 +72,8 @@ In the first half, attendants can gather, relax, and catch up with each other ov
 
 ---
 
-> #### [Polynomial-Time Algorithm for Power-Sum Decomposition of Polynomials]({{< ref "event/theory-lunch/12-09-22/index.md" >}})
-> December 9, 2022 12:00 PM — 1:30 PM &nbsp;&#8226;&nbsp; Cobb 301.
+> #### [Polynomial-Time Algorithm for Power-Sum Decomposition of Polynomials]({{< ref "event/theory-lunch/12-07-22/index.md" >}})
+> December 7, 2022 12:00 PM — 1:30 PM &nbsp;&#8226;&nbsp; Cobb 301.
 >
 > [Jeff (Sichao) Xu](https://www.andrew.cmu.edu/user/sichaoxu/), Carnegie Mellon University
 

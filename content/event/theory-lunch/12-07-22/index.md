@@ -20,8 +20,8 @@ Based on joint work with Mitali Bafna, Jun-Ting Hsieh and Pravesh Kothari.
 FOCS '22. [Arxiv](https://arxiv.org/abs/2208.00122)."
 
 # Talk start and end times.
-date: "2022-12-09T12:00:00Z"
-date_end: "2022-12-09T13:30:00Z"
+date: "2022-12-07T12:00:00Z"
+date_end: "2022-12-07T13:30:00Z"
 location: "Cobb 301"
 all_day: false
 show_date: false
