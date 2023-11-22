@@ -2,7 +2,7 @@
 title: "Accelerated Extra-Gradient Descent: A Novel Accelerated First-Order Method" 
 authors: 
 - Jelena Diakonikolas
-- admin
+- Lorenzo Orecchia
 date: "2018-12-01"
 #doi: "10.1137/19M1288516"
 math: true

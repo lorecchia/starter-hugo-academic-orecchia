@@ -2,7 +2,7 @@
 title: "Connected Subgraph Detection with Mirror Descent on SDPs" 
 authors: 
 - Cem Aksoylar
-- admin
+- Lorenzo Orecchia
 - Venkatesh Saligrama
 date: "2017-08-01"
 math: true

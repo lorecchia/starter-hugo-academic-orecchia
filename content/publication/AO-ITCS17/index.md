@@ -2,7 +2,7 @@
 title: "Linear Coupling: An Ultimate Unification of Gradient and Mirror Descent" 
 authors: 
 - Zeyuan Allen-Zhu
-- admin
+- Lorenzo Orecchia
 date: "2017-11-28"
 #doi: "10.4230/LIPIcs.ITCS.2017.3"
 math: true

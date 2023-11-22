@@ -3,7 +3,7 @@ title: "Fair Packing and Covering on a Relative Scale"
 authors: 
 - Jelena Diakonikolas
 - Maryam Fazel
-- admin
+- Lorenzo Orecchia
 date: "2020-12-10"
 #doi: "10.1137/19M1288516"
 math: true

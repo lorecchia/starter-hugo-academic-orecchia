@@ -5,7 +5,7 @@ authors:
 - Aditya Bhaskara
 - Silvio Lattanzi
 - Vahab Mirrokni
-- admin
+- Lorenzo Orecchia
 date: "2016-01-10"
 #doi: "10.5555/2884435.2884454"
 math: true

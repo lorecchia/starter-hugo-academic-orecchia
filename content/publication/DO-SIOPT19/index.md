@@ -2,9 +2,9 @@
 title: "The Approximate Duality Gap Technique: A Unified Theory of First-Order Methods" 
 authors: 
 - Jelena Diakonikolas
-- admin
+- Lorenzo Orecchia
 date: "2019-03-05"
-#doi: "110.1137/18M1172314"
+doi: "110.1137/18M1172314"
 math: true
 
 # Schedule page publish date (NOT publication's date).

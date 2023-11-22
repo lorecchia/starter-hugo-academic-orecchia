@@ -2,8 +2,8 @@
 title: "Using Optimization to Obtain a Width-Independent, Parallel, Simpler, and Faster Positive SDP Solver"
 authors: 
 - Zeyuan Allen-Zhu
-- "Yin Tat Lee"
-- "admin"
+- Yin Tat Lee
+- Lorenzo Orecchia
 date: "2016-01-10"
 #doi: "10.1137/1.9781611974331.ch127"
 math: true

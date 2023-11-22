@@ -3,7 +3,7 @@ title: "On Acceleration with Noise-Corrupted Gradients"
 authors: 
 - Michael Cohen
 - Jelena Diakonikolas
-- admin
+- Lorenzo Orecchia
 date: "2018-07-01"
 #doi: "10.1137/19M1288516"
 math: true
