@@ -10,7 +10,7 @@ date: "2010-10-04"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
-publication: Proceedings of the 28th International Conference on Machine Learning"
+publication: Proceedings of the 28th International Conference on Machine Learning
 publication_short: ICML
 
 abstract: ""
