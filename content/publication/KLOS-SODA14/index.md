@@ -41,4 +41,4 @@ links:
   url: http://epubs.siam.org/doi/pdf/10.1137/1.9781611973402.16
 ---
 
- *Co-winner of Best Paper Award at SODA 2014.* 
+ *Co-winner of Best Paper Award at SODA 2014.*
