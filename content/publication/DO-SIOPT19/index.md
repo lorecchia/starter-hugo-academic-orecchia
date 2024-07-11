@@ -4,7 +4,6 @@ authors:
 - Jelena Diakonikolas
 - Lorenzo Orecchia
 date: "2019-03-05"
-doi: "110.1137/18M1172314"
 math: true
 
 # Schedule page publish date (NOT publication's date).

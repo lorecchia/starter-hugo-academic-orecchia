@@ -34,8 +34,6 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: ArXiv
-  url: Nearly Linear-Time Packing and Covering LP Solvers
 - name: ACM
   url: https://dl.acm.org/doi/10.1007/s10107-018-1244-x
 
