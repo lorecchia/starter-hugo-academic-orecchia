@@ -1,27 +1,27 @@
 ---
 title: "A Simple, Combinatorial Algorithm for Solving SDD Systems in Nearly-Linear Time"
-summary: "With Jonathan A. Kelner, Aaron Sidford and Zeyuan Allen-Zhu.
+authors:
+- Jonathan A. Kelner
+- admin
+- Aaron Sidford
+- Zeyuan Allen-Zhu
+date: "2013-01-28"
+mate: true
 
- STOC’13: Proc. Symp. Theory Computing, pp. 911–920, 2013. [[ArXiv]](http://arxiv.org/abs/1301.6628) [[Proceedings]](http://dl.acm.org/citation.cfm?id=2488724)"
-date: "2013-01-28T00:00:00Z"
 
+publication: "Proceedings of the 45th annual ACM symposium on Theory of Computing"
+publication_short: STOC
 
-show_date: false
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+abstract: "In this paper, we present a simple combinatorial algorithm that solves symmetric diagonally dominant (SDD) linear systems in nearly-linear time. It uses little of the machinery that previously appeared to be necessary for a such an algorithm. It does not require recursive preconditioning, spectral sparsification, or even the Chebyshev Method or Conjugate Gradient. After constructing a "nice" spanning tree of a graph associated with the linear system, the entire algorithm consists of the repeated application of a simple update rule, which it implements using a lightweight data structure. The algorithm is numerically stable and can be implemented without the increased bit-precision required by previous solvers. As such, the algorithm has the fastest known running time under the standard unit-cost RAM model. We hope the simplicity of the algorithm and the insights yielded by its analysis will be useful in both theory and practice."
 
-featured: true
+tags:
+- "convex optimization"
+- "Laplacian linear systems"
+- "electrical flow"
 
-#links:
-url_preprint: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-# Optional header image (relative to `static/media/` folder).
-
-header:
-  caption: "A Simple, Combinatorial Algorithm for Solving SDD Systems in Nearly-Linear Time"
-  image: ""
+links:
+- name: ArXiv 
+  url: http://arxiv.org/abs/1301.6628
+- name: ACM
+  url: http://dl.acm.org/citation.cfm?id=2488724
 ---
-
-With Jonathan A. Kelner, Aaron Sidford and Zeyuan Allen-Zhu.
-STOC’13: Proc. Symp. Theory Computing, pp. 911–920, 2013. [[ArXiv]](http://arxiv.org/abs/1301.6628) [[Proceedings]](http://dl.acm.org/citation.cfm?id=2488724)
