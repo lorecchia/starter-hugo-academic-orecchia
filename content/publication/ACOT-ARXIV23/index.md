@@ -1,5 +1,5 @@
 ---
-title: "Fast Algorithms for Hypergraph PageRank with Applications to Semi-Supervised Learning" 
+title: "Submodular Hypergraph Partitioning: Metric Relaxations and Fast Algorithms via an Improved Cut-Matching Game" 
 authors: 
 - Konstantinos Ameranis
 - Antares Chen
@@ -15,11 +15,11 @@ math: true
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: [3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "International Conference on Machine Learning"
-publication_short: "ICML"
+#publication: "International Conference on Machine Learning"
+#publication_short: "ICML"
 
 abstract: "Despite there being significant work on developing spectral, and metric embedding based approximation algorithms for hypergraph generalizations of conductance, little is known regarding the approximability of hypergraph partitioning objectives beyond this.
 This work proposes algorithms for a general model of hypergraph partitioning that unifies both undirected and directed versions of many well-studied partitioning objectives. The first contribution of this paper introduces polymatroidal cut functions, a large class of cut functions amenable to approximation algorithms via metric embeddings and routing multicommodity flows. We demonstrate an O($$\\sqrt{\\log n}$$)-approximation, where n is the number of vertices in the hypergraph, for these problems by rounding relaxations to metrics of negative-type.
