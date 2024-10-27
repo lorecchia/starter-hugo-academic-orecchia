@@ -4,21 +4,21 @@ headless: true  # This file represents a page section.
 active: true
 weight: 30
 
-title: Selected Publications
+title: Featured Recent Publications
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  page_type: z_publicationAll
+  page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Page order. Descending (desc) or ascending (asc) date.
   order: desc
   # Optionally filter posts by a taxonomy term.
-  filters:
-    tag: ''
-    category: ''
-    publication_type: ''
+  #filters:
+  #  tag: ''
+  #  category: ''
+  # publication_type: ''
 
 design:
   # Toggle between the various page layout types.
