@@ -3,4 +3,3 @@
 type: widget_page
 ---
 
-### Past Members
