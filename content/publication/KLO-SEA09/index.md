@@ -4,7 +4,7 @@ authors:
 - Kevin J. Lang
 - Michael W. Mahoney
 - admin
-date: "2009-01-01"
+date: 2009-01-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

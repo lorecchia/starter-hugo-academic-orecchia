@@ -3,7 +3,7 @@ title: "Implementing Regularization Implicitly Via Approximate Eigenvector Compu
 authors:
 - Michael W. Mahoney
 - admin
-date: "2010-10-04"
+date: 2010-10-04
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

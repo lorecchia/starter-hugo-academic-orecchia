@@ -4,7 +4,7 @@ authors:
 - Cem Aksoylar
 - Lorenzo Orecchia
 - Venkatesh Saligrama
-date: "2017-08-01"
+date: 2017-08-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

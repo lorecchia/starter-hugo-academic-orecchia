@@ -3,7 +3,7 @@ title: "Towards an SDP-Based Approach to Spectral Methods: A Nearly-Linear Time 
 authors:
 - Lorenzo Orecchia
 - Nisheeth K. Vishnoi
-date: "2011-01-01"
+date: 2011-01-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

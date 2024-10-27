@@ -3,7 +3,7 @@ title: "Solving Packing and Covering LPs in $Õ(1ε2)$ Distributed Iterations w
 authors:
 - Jelena Diakonikolas
 - Lorenzo Orecchia
-date: "2017-10-24T00:00:00Z"
+date: 2017-10-24
 math: true
 
 # Schedule page publish date (NOT publication's date).

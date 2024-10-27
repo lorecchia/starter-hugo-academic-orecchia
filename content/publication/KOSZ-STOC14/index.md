@@ -5,7 +5,7 @@ authors:
 - admin
 - Aaron Sidford
 - Zeyuan Allen-Zhu
-date: "2013-01-28"
+date: 2013-01-28
 math: true
 
 

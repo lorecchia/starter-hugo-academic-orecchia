@@ -4,7 +4,7 @@ authors:
 - Jelena Diakonikolas
 - Maryam Fazel
 - Lorenzo Orecchia
-date: "2020-12-10"
+date: 2020-12-10
 #doi: "10.1137/19M1288516"
 math: true
 

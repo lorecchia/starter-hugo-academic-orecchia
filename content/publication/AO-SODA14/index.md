@@ -3,7 +3,7 @@ title: "Flow-Based Algorithms for Local Graph Clustering"
 authors:
 - Zeyuan Allen-Zhu
 - Lorenzo Orecchia
-date: "2013-07-10T00:00:00Z"
+date: 2013-07-10
 math: true
 
 

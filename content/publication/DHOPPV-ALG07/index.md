@@ -7,7 +7,7 @@ authors:
 - Alessandro Panconesi
 - Chiara Petrioli
 - Andrea Vitaletti
-date: "2007-10-31"
+date: 2007-10-31
 math: true
 
 

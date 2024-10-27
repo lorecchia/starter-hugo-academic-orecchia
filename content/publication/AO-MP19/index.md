@@ -3,7 +3,7 @@ title: "Nearly Linear-Time Packing and Covering LP Solvers"
 authors: 
 - Zeyuan Allen-Zhu
 - Lorenzo Orecchia
-date: "2019-05-01"
+date: 2019-05-01
 #doi: "10.1007/s10107-018-1244-x"
 math: true
 

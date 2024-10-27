@@ -5,7 +5,7 @@ authors:
 - Subhash A. Khot
 - Nisheeth K. Vishnoi
 - Lorenzo Orecchia
-date: "2007-01-01"
+date: 2007-01-01
 math: true
 
 

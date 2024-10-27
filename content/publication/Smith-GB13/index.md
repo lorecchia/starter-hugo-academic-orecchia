@@ -10,7 +10,7 @@ authors:
 - Oksenberg N
 - Pollard KS 
 - Ahituv N 
-date: "2013-01-01"
+date: 2013-01-01
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

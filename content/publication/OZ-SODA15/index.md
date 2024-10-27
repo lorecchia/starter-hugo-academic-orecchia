@@ -3,7 +3,7 @@ title: "Using Optimization to Break the Epsilon Barrier: A Faster and Simpler Wi
 authors:
 - Zeyuan Allen-Zhu
 - Lorenzo Orecchia
-date: "2015-01-01"
+date: 2015-01-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

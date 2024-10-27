@@ -3,7 +3,7 @@ title: "The Approximate Duality Gap Technique: A Unified Theory of First-Order M
 authors: 
 - Jelena Diakonikolas
 - Lorenzo Orecchia
-date: "2019-03-05"
+date: 2019-03-05
 math: true
 
 # Schedule page publish date (NOT publication's date).

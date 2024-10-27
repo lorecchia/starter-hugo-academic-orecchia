@@ -5,7 +5,7 @@ authors:
 - Antares Chen
 - Lorenzo Orecchia
 - Cong Ma
-date: "2024-7-01"
+date: 2024-07-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

@@ -2,7 +2,7 @@
 title: "Fast Approximation Algorithms for Graph Partitioning Using Spectral and Semidefinite-Programming Techniques"
 authors:
 - admin
-date: "2011-05-01T00:00:00Z"
+date: 2011-05-01
 math: True
 
 # Schedule page publish date (NOT publication's date).

@@ -4,7 +4,7 @@ authors:
 - Zeyuan Allen-Zhu
 - Yin Tat Lee
 - Lorenzo Orecchia
-date: "2016-01-10"
+date: 2016-01-10
 #doi: "10.1137/1.9781611974331.ch127"
 math: true
 

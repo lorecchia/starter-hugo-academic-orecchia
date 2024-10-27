@@ -4,7 +4,7 @@ authors:
 - Michael W. Mahoney
 - Nisheeth K. Vishnoi
 - Lorenzo Orecchia
-date: "2012-01-01"
+date: 2012-01-01
 math: true
 
 

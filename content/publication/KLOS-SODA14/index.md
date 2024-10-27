@@ -5,7 +5,7 @@ authors:
 - YinTat Lee
 - Lorenzo Orecchia
 - Aaron Sidford
-date: "2014-01-01"
+date: 2014-01-01
 doi: "10.1137/1.9781611973402.16"
 math: true
 

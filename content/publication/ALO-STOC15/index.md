@@ -4,7 +4,7 @@ authors:
 - Zeyuan Allen-Zhu
 - Zhenyu Liao
 - admin
-date: "2011-05-01"
+date: 2011-05-01
 math: true
 
 # Schedule page publish date (NOT publication's date).

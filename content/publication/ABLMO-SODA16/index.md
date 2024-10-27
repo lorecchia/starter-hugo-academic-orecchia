@@ -6,7 +6,7 @@ authors:
 - Silvio Lattanzi
 - Vahab Mirrokni
 - Lorenzo Orecchia
-date: "2016-01-10"
+date: 2016-01-10
 #doi: "10.5555/2884435.2884454"
 math: true
 

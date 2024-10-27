@@ -5,7 +5,7 @@ authors:
 - Leonard Schulman
 - Umesh V. Vazirani
 - Nisheeth K. Vishnoi
-date: "2008-01-01"
+date: 2008-01-01
 math: true 
 
 

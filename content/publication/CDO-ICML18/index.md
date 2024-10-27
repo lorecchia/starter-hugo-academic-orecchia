@@ -4,7 +4,7 @@ authors:
 - Michael Cohen
 - Jelena Diakonikolas
 - Lorenzo Orecchia
-date: "2018-07-01"
+date: 2018-07-01
 #doi: "10.1137/19M1288516"
 math: true
 
