@@ -25,6 +25,7 @@ This work introduces a unique in vivo catalog of short, functional regulatory se
 
 tags:
 - "computational biology"
+featured: false
 
 links:
 - name: BMC

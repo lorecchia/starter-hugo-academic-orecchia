@@ -19,4 +19,5 @@ abstract: ""
 links:
 - name: ArXiv
   url: http://arxiv.org/abs/1111.1491
+featured: false
 ---

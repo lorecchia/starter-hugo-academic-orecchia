@@ -12,7 +12,7 @@ date: 2024-11-12
 math: true
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: {{ .Date }}
+publishDate: 2024-15-09
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
