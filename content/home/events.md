@@ -3,7 +3,7 @@ title: Upcoming Events
 summary: Schedule of Group Events
 widget: pages  # See https://sourcethemes.com/academic/docs/page-builder/
 headless: true
-active: true  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 unsafe: true
 math: true
 

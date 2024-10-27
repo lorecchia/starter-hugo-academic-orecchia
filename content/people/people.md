@@ -21,6 +21,7 @@ content:
     - Graduate Students
     - Undergraduate / Masters Students
     - Administration
+  
 
 design:
   # Show user's social networking links? (true/false)
