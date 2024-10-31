@@ -28,6 +28,7 @@ tags:
 - "graph partitioning"
 - "network flows"
 - "spectral methods"
+featured: false
 
 links:
 - name: UCB TR

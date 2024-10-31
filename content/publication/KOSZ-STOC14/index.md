@@ -24,4 +24,7 @@ links:
   url: http://arxiv.org/abs/1301.6628
 - name: ACM
   url: http://dl.acm.org/citation.cfm?id=2488724
+
+featured: false
+
 ---
