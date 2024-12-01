@@ -59,6 +59,6 @@ My research aims to design __simple, efficient algorithms__ for foundational com
 
 The unifying thread behind my works is the use of convex optimization and first-order methods as a generic design framework for both __combinatorial and continuous problems__. This view allows us to combine techniques from discrete and continuous mathematics to yield faster, more interpretable algorithms.
 
-Email: _orecchia at uchicago dot com_ \
+Email: _orecchia at uchicago dot edu_ \
 Office: _JCL 315_ \
 Curriculum Vitae: [_Short Version_](cvs/CV-lo.pdf), [_Long Version_](cvs/LongCV-lo.pdf)
