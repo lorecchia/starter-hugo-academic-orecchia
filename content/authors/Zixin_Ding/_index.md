@@ -6,7 +6,7 @@ title: Zixin Ding
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Former Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -55,6 +55,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Former Master's Students
 ---
 I am a first year phd student at Uchicago CS, advised by Prof. Lorenzo Orecchia. Before coming to US, I grew up in Beijing. I completed my bachelor’s degree at Boston University with Summa Cum Laude, majoring in mathematics with a specialization in statistics and a minor in computer science.

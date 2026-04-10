@@ -21,6 +21,9 @@ content:
     - Graduate Students
     - Undergraduate / Masters Students
     - Administration
+    - Graduated PhD Students
+    - Former Master's Students
+    - Former Undergraduate Students
   
 
 design:

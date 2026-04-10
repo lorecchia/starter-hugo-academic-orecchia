@@ -6,12 +6,11 @@ title: Xifan Yu
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Former Undergraduate Student (2021)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-#  url: "https://computerscience.uchicago.edu/people/profile/lorenzo-orecchia/"
+- name: PhD Student, Yale University
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a senior undergraduate student at the University of Chicago, and I am completing a joint master degree in CS at the same time. I am fortunate to be advised by Lorenzo Orecchia.
@@ -32,6 +31,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: "https://xifanyu.github.io/"
 - icon: envelope
   icon_pack: fas
   link: "mailto:xifan@uchicago.edu"  # For a direct email link, use "mailto:test@example.org".
@@ -56,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate / Masters Students
+- Former Undergraduate Students
 
 ---
 

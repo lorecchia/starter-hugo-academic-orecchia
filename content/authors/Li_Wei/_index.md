@@ -6,7 +6,7 @@ title: Li (Alex) Wei
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Former Master's Student
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Former Master's Students
 
 ---
 BSc, The University of Hong Kong

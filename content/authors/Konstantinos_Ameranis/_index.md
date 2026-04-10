@@ -6,12 +6,11 @@ title: Konstantinos Ameranis
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD Alum (2025)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-#  url: "https://computerscience.uchicago.edu/people/profile/lorenzo-orecchia/"
+- name: Assistant Teaching Professor, Purdue University
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a second year PhD student at the Computer Science Department at the University of Chicago. My advisor is Lorenzo Orecchia. My research interests include algorithms, graphs, Semidefinite Programming and optimization. My undergrad was in the Electrical and Computer Engineering department of the National Technical University of Athens where I completed my thesis on Minimum and Maximum Constraints in the Team Orienteering with Time Windows under the supervision of Dimitris Fotakis and Nikos Vathis.
@@ -34,7 +33,7 @@ education:
 social:
 - icon: link
   icon_pack: fas
-  link: "https://people.cs.uchicago.edu/~kameranis/"
+  link: "https://www.cs.purdue.edu/people/faculty/kamerani.html"
 - icon: envelope
   icon_pack: fas
   link: "mailto:kameranis@uchicago.edu"  # For a direct email link, use "mailto:test@example.org".
@@ -48,7 +47,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Graduated PhD Students
 
 ---
 

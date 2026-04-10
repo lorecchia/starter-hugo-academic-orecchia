@@ -6,7 +6,7 @@ title: Isabella Declue
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Former Undergraduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -44,8 +44,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Undergraduate / Masters Students
+user_groups: []
 ---
 
 Isabella is currently a second-year student at the University of Chicago majoring in Statistics and minoring in Computer Science. She first became involved with the group through UChicago's Center for Data and Computing Summer Lab program, where she worked on implementing statistical algorithms to contribute to a larger manifold learning project.

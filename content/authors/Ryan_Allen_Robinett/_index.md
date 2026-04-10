@@ -6,12 +6,11 @@ title: Ryan Allen Robinett
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: PhD Alum (2026)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-#  url: "https://computerscience.uchicago.edu/people/profile/lorenzo-orecchia/"
+- name: Postdoctoral Researcher, University of Chicago
 
 # Short bio (displayed in user profile at end of posts)
 bio: Howdy! I am a second-year PhD student in the University of Chicago's Department of Computer Science. I am also a 2019 National Science Foundation Fellow and an avid consumer of caffeinated beverages. I earned my BS in Mathematics from the Massachusetts Institute of Technology. At MIT, I had the privilege of doing biomathematical research with the Meyer Lab at the Koch Institute for integrative Cancer Research and later doing work on sparse neural network topologies with Dr. Jeremy Kepner at MIT Beaver Works. My current research at U Chicago is focused on dimensionality eduction and first-order methods for optimization on manifolds constructed from point clouds using moving least-squares. This work is being done in collaboration with Prof. Lorenzo Orecchia in he department of Computer Science and Prof. Samantha Riesenfeld in the Pritzker School of Molecular Engineering.
@@ -58,7 +57,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Graduated PhD Students
 ---
 Howdy! I am a second-year PhD student in the University of Chicago's
 Department of Computer Science. I am also a 2019 National Science

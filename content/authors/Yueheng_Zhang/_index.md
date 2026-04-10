@@ -6,12 +6,11 @@ title: Yueheng Zhang
 superuser: false
 
 # Role/position
-role: Undergraduate Student
+role: Former Undergraduate Student (2021)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-#  url: "https://computerscience.uchicago.edu/people/profile/lorenzo-orecchia/"
+- name: PhD Student, ETH Zurich
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a fourth-year college student at UChicago majoring in CS and math. I am currently interested in local algorithms on graphs, diffusion processes on graphs, and fast approximation algorithms via convex optimization.
@@ -32,6 +31,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: link
+  icon_pack: fas
+  link: "https://bsse.ethz.ch/people/detail-person.MzUwNTYy.TGlzdC8yNjY5LC0xMDExNjczNjI=.html"
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yuehengz@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
@@ -56,7 +58,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate / Masters Students
+- Former Undergraduate Students
 
 ---
 I am a fourth-year college student at UChicago majoring in CS and math. I am currently interested in local algorithms on graphs, diffusion processes on graphs, and fast approximation algorithms via convex optimization.
